@@ -80,6 +80,11 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       price: "50"
+    - plan: Medium
+      price: "65"
+      description: In between Big and Small!
+      items:
+        - We'll figure it out ad-hoc month by month
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
